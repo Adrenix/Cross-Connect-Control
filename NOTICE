@@ -1,18 +1,18 @@
                     ADDITIONAL TERMS AND PERMISSIONS
                 (Pursuant to Section 7 of the GNU GPLv3)
 
-  The copyright holder of the Program places the following additional terms 
+  The copyright holder of the Program places the following additional terms
 upon the Program:
 
   1. TRADEMARKS & BRANDING (Pursuant to Section 7(e)): The project name,
      official logos, custom artwork, and distinctive branding elements are NOT
-     covered by this open-source license. If you convey a Modified Version, or
+     covered by this open-source license. If you create a Modified Version and
      redistribute the Program under a different project identity, you must
      change the Modified Version's name, logos, and branding elements. You may
      not use the original branding to market or imply endorsement of any work
      based on the Program.
 
-  2. MANDATORY ATTRIBUTION (Pursuant to Section 7(b)): If you convey a Modified
+  2. MANDATORY ATTRIBUTION (Pursuant to Section 7(b)): If you create a Modified
      Version, copy, or redistribute the Program (or substantial portions of its
      source code), you must retain prominent, visible attribution to the
      original author. This attribution must include the original author's name
@@ -27,7 +27,7 @@ upon the Program:
 
                 COMPLIANCE EXAMPLES FOR MODIFIED VERSIONS
 
-  To satisfy the Mandatory Attribution requirements above, downstream developers 
+  To satisfy the Mandatory Attribution requirements above, downstream developers
 may use the following standard formats:
 
 Example for a) Source Code File Headers:
@@ -38,13 +38,13 @@ Example for a) Source Code File Headers:
  * SPDX-License-Identifier: LGPL-3.0-or-later
  */
 
-Example for b) User-Facing Documentation or README:
+Example for b) README.md:
 
 ## Credits
 This project is a modified version of [Original Project Name], initially created
 and maintained by [Original Author Name].
 
-Example for c) In-Game Mod Description Metadata (neoforge.mods.toml):
+Example for c) In-game Mod Description Metadata (neoforge.mods.toml):
 
 [[mods]]
     modId = "your_fork_mod_id"
