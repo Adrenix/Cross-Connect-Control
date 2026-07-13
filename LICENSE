@@ -163,31 +163,3 @@ whether future versions of the GNU Lesser General Public License shall
 apply, that proxy's public statement of acceptance of any version is
 permanent authorization for you to choose that version for the
 Library.
-
-=========================================================================
-ADDITIONAL TERMS AND PERMISSIONS (Pursuant to Section 7 of the GNU GPLv3)
-=========================================================================
-The copyright holder of this software places the following additional
-terms upon the Program:
-
-  1. TRADEMARKS & BRANDING (Pursuant to Section 7(e)): The project name,
-     official logos, custom artwork, and distinctive branding elements
-     are NOT covered by this open-source license. If you convey a
-     Modified Version, or redistribute the Program under a different
-     project identity, you must change the Modified Version's name,
-     logos, and branding elements. You may not use the original branding
-     to market or imply endorsement of any work based on the Program.
-
-  2. MANDATORY ATTRIBUTION (Pursuant to Section 7(b)): If you convey a
-     Modified Version, copy, or redistribute the Program (or substantial
-     portions of its source code), you must retain prominent, visible
-     attribution to the original author. This attribution must include
-     the original author's name and the original Project name. It must
-     be visible in:
-
-       a) The source code file headers of the Modified Version.
-
-       b) The user-facing documentation or repository README.
-
-       c) The in-game mod description metadata (e.g., neoforge.mods.toml).
-=========================================================================
